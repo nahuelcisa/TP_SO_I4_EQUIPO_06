@@ -25,9 +25,14 @@ hora </p>
 primero ALFA , despues BETA y por último GAMMA
 Pregunta:
 E- ¿Algún integrante tuvo problemas al hacer el push?
+al actualizarse el repositorio por los cambios de Alfa, Beta no puede hacer push xq no tiene actualizada la rama
 F- ¿Qué problemas surgieron?
+despues de que Alfa hizo el push ni Beta ni Gamma pudieron hacer push
 G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
 adoptada?
+cada vez que se hace un push se tiene que actualizar las ramas para que no halla conflictos, sino se tiene q forzar un push y se puede borrar un commit anterior
 H- ¿Qué sucede si cada uno utiliza el push -f?
+Realiza el push de manera forzada y logran tanto Beta como Gamma realizar el push
 I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
 en DESARROLLO ?
+cada integrante tiene q actualizar la rama 
