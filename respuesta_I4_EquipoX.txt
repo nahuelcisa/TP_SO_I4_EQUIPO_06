@@ -5,13 +5,13 @@ CisaNahuel
 LimachiSergio
 
 A- ¿Qué color de fondo tiene su página en el TESTING ?
-
+    white
 B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
-
+    white
 C- ¿Qué color de fondo tiene su página en el MASTER?
-
+    white
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
-
+    ambos
 
 cambios al unísono:
 
