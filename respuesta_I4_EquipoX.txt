@@ -1,0 +1,33 @@
+Apellido y nombre de los alumnos que participaron de la interacción
+
+Lodolatomas
+CisaNahuel
+LimachiSergio
+
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+
+C- ¿Qué color de fondo tiene su página en el MASTER?
+
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+
+
+cambios al unísono:
+
+18-ALFA en TESTING en el archivo index.html agrega un <p>apellido nombre fecha y
+hora </p>
+19-BETA en TESTING en el archivo index.html agrega un <p>apellido nombre fecha y
+hora </p>
+20-GAMMA en TESTING en el archivo index.html agrega un <p>apellido nombre fecha y
+hora </p>
+21- hacen los PUSH en el siguiente orden
+primero ALFA , despues BETA y por último GAMMA
+Pregunta:
+E- ¿Algún integrante tuvo problemas al hacer el push?
+F- ¿Qué problemas surgieron?
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+H- ¿Qué sucede si cada uno utiliza el push -f?
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
